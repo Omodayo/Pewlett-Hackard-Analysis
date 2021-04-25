@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Analysis Overview
-The purpose of this analysis is to use SQL to analyse Pewlett Hackard employee data to determine number of its current employees that are eligibile for retirement base on a set of criteria and to determine out of this retiring group, current employees that are eligibile for the company mentorship program to help new employees settle into their new roles seamlessly. This is to help the company update and refresh its workforce.
+The purpose of this analysis is to use SQL to analyse Pewlett Hackard employee data to determine number of its current employees that are eligibile for retirement base on a set of criteria, and those, out of this retiring group, that are eligibile for the company's mentorship program to help new employees settle into their new roles seamlessly. This is to help the company update and refresh its workforce.
 
 ## Analysis Result
 Rural city types pull in the lowest total ride fares, as a result of its fewer number of drivers conducting the lowest total rides. Inspite of the lowest total fares, Rural city types has the highest average fare per ride and highest average fare per driver. This can be attributed to its low availability of drivers resulting in lower supply of rides which perhaps drive up the fare price.
