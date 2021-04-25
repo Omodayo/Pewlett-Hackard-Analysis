@@ -9,8 +9,6 @@ The purpose of this analysis is to use SQL to analyse Pewlett Hackard employee d
 * Junior staff such as engineer, staff, and assistant engineer make up 54% of the retiring group
 * 1,549 (about 2%)retiring employee,whose birth dates are between January 1, and December 31, 1965.qualifies for mentorship eligibility
 
-- ![PyBer_Data_Summary](https://github.com/Omodayo/PyBer_Analysis/blob/main/analysis/PyBer_data_Summary.png)
-
 ## Analysis Summarry
 * 90,398 roles will need to be filled
 * There are not enough retirement-ready employees to mentor the next generation, this group make up about 2% of the retirement-ready employees.
